@@ -11,7 +11,7 @@
 
 ## 실행
 
-GitHub Pages가 활성화되면 https://pions01-hash.github.io/test/ 에서 플레이할 수 있습니다.
+GitHub Pages가 활성화되면 https://sangeon-lee-git.github.io/test/ 에서 플레이할 수 있습니다.
 
 다운로드한 `index.html`을 Chrome 또는 Edge로 직접 열어도 실행됩니다. 음성을 포함한 단일 HTML이므로 별도 설치나 API 키가 필요 없습니다.
 
